@@ -1,11 +1,11 @@
 ### Hi there 👋
-Hello there! I'm isa, a front-end developer.I'm working to create impressive and user-friendly websites using HTML, CSS, and JavaScript, and to enhance my expertise in these areas.
+I'm İsa, a Full Stack & React Native developer. I focus on creating user-friendly and impressive web and mobile applications using modern technologies like React, React Native, JavaScript, and Node.js. I am continuously working to enhance my expertise in these areas.
 
-I highly value teamwork and enjoy collaborating with others to brainstorm and solve problems.
+I highly value teamwork, enjoy exchanging ideas, and love collaborating to create innovative solutions.
 
-I develop projects using my vision and design skills, and I share them on GitHub.
+I shape my projects with my vision and design skills and share them on GitHub.
 
-You can visit my GitHub profile to explore my work and contribute to my projects.
+Feel free to visit my GitHub profile to explore my work and contribute to my projects!
 
 
 
